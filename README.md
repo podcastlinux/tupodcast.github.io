@@ -26,7 +26,7 @@ Dentro de ella tendrás un archivo de ejemplo en formato .txt
 Copia y modifica su nombre y añade dentro las notas del programa.
 El archivo debe ser año-mes-día-nombre-del-episodio.md Ejemplo: 2017-09-15-Promo.md  
 Al principio tienes una zona para definir el post (datos de ejemplo). Es muy importante poner en categories:podcast para que cargue esta entrada como episodio del feed.  
----
+-
 layout: post
 title: "Promo Frente al Micrófono"
 date: 2017-09-15
@@ -35,7 +35,7 @@ image: images/logo.png
 podcast_link: https://ia800605.us.archive.org/26/items/PromoFrentealmicrófono/FAM-00-promo.mp3
 tags: [audio, promo, Frente al Micrófono]
 comments: true
----
+-
 Te dejo un [ejemplo](https://github.com/uGeek/ugeek.github.io/edit/master/_posts/podcast/2017-09-04-076.-Un-servidor-en-mi-casa.md)
 7. **Revisa** que **el feed** esté bien.
 
