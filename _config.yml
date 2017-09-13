@@ -68,6 +68,20 @@ kramdown:
     # Use existing pygments syntax highlighting css
     css_class: 'highlight'
 
+# Podcast Feed Settings
+podcast_url: https://tupodcast.github.io
+podcast_album_art: /img/logo.png
+podcast_title: tupodcast
+podcast_owner: tunombre
+podcast_email: @gmail.com
+podcast_category: Technology
+podcast_subcategory_one: 
+podcast_explicit: "no"
+podcast_author: tu nombre
+podcast_description: Describe tu podcast
+podcast_summary: Más descripciones
+podcast_subtitle: Aporta más info
+
 # Set the Sass partials directory, as we're using @imports
 sass:
   style: :expanded # You might prefer to minify using :compressed
