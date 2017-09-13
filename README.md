@@ -21,11 +21,11 @@ Añade con upload el archivo (arriba con el símbolo fecla hacia arriba) y relle
 Una vez esté, entra en ese audio [(Ejemplo)](https://archive.org/details/PL28Aniversario) y pincha en [VBR mp3](https://ia800605.us.archive.org/26/items/PL28Aniversario/PL-28-Aniversario.mp3) o si lo prefieres en formato [Ogg Vorbis](https://ia800605.us.archive.org/26/items/PL28Aniversario/PL-28-Aniversario.ogg)  
 Copia el link de esa url
 6. Aprende a **realizar los posts** para que salgan como episodios de tu podcast.
-En tu repositorio accede a la carpeta _post.
-Dentro de ella tendrás un archivo de ejemplo en formato .txt
-Copia y modifica su nombre y añade dentro las notas del programa.
-El archivo debe ser año-mes-día-nombre-del-episodio.md Ejemplo: 2017-09-15-Promo.md  
-Al principio tienes una zona para definir el post (datos de ejemplo). Es muy importante poner en categories:podcast para que cargue esta entrada como episodio del feed.  
+En tu repositorio accede a la carpeta _post.  
+Dentro de ella tendrás un archivo de ejemplo en formato .txt  
+Copia y modifica su nombre y añade dentro las notas del programa.  
+El archivo debe ser año-mes-día-nombre-del-episodio.md Ejemplo: 2017-09-15-Promo.md    
+Al principio tienes una zona para definir el post (datos de ejemplo). Es muy importante poner en categories:podcast para que cargue esta entrada como episodio del feed.    
 
 _layout: post  
 title: "Promo Frente al Micrófono"  
