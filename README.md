@@ -9,13 +9,13 @@ Toda la info se ha extraído de:
 <https://github.com/ugeek/ugeek.github.io/>  
 <https://devexperto.com/blog-gratis-github-jekyll/>
 
-1. **Crea tu cuenta github** con el nombre de tu podcast <https://github.com/> ej:frentealmicro  
+1. **Crea tu cuenta github** con el nombre de tu podcast <https://github.com/> Ej:frentealmicro  
 
 2. **Realiza un fork** de este repositorio: <https://github.com/podcastlinux/tupodcast.github.io>  
 
 3. **Modifica y configura tu Github Pages** con tu info y logo.  
-Cambia el nombre de tu repositorio a tuusuario.github.io ej:frentealmicro.github.io  
-Modifica _config.yml con nombre, descripción, logo, redes sociales y especialmente todo lo referente al feed del podcast en la parte # Podcast Feed Settings  
+Cambia el nombre de tu repositorio a tuusuario.github.io Ej:frentealmicro.github.io  
+Modifica _config.yml con tu nombre del podcast, descripción, logo, redes sociales y no te olvides todo lo referente al feed del podcast en la parte # Podcast Feed Settings  
 Revisa este archivo de [ejemplo](https://github.com/podcastlinux/podcastlinux.github.io/blob/master/_config.yml)  
 También puedes editar el about.md para poner todos tus métodos de contacto y algo de info sobre tu podcast.
 
@@ -30,8 +30,8 @@ Copia el link de esa url
 En tu repositorio accede a la carpeta _post.  
 Dentro de ella tendrás un archivo de ejemplo en formato .txt  
 Copia y modifica su nombre y añade dentro las notas del programa.  
-El archivo debe ser año-mes-día-nombre-del-episodio.md Ejemplo: 2017-09-15-Promo.md    
-Al principio tienes una zona para definir el post (datos de ejemplo). Es muy importante poner en categories:podcast para que cargue esta entrada como episodio del feed.    
+El archivo debe ser año-mes-día-nombre-del-episodio.md Ejemplo: 2017-09-15-promo.md    
+Al principio tienes una zona para definir el post (datos de ejemplo). Es muy importante poner en __categories:podcast__ para que cargue esta entrada como episodio del feed.    
 ~~~
 _layout: post  
 title: "Promo Frente al Micrófono"  
