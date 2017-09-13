@@ -48,7 +48,8 @@ Te dejo un [ejemplo](https://github.com/uGeek/ugeek.github.io/edit/master/_posts
 
 7. **Revisa** que **el feed** esté bien.
 Una vez ya tengas tu primer episodio, verifica que todo haya ido bien.  
-Puedes utilizar un podcatcher para ver si funciona. En Android te recomiendo [Antennapod](https://play.google.com/store/apps/details?id=de.danoeh.antennapod&hl=es)  
+Probemos a ver si tu feed funciona. Tu feed es: tuusuario.github.io/feed
+Puedes utilizar un podcatcher para ver si carga correctamente. En Android te recomiendo [Antennapod](https://play.google.com/store/apps/details?id=de.danoeh.antennapod&hl=es)  
 También pudes probar esta página:<http://castfeedvalidator.com/>  
 
 
