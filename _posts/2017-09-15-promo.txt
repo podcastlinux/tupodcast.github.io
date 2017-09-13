@@ -1,0 +1,28 @@
+---
+_layout: post  
+title: "Promo Frente al Micrófono"  
+date: 2017-09-15  
+categories: podcast  
+image: images/logo.png  
+podcast_link: https://ia800605.us.archive.org/26/items/PromoFrentealmicrófono/FAM-00-promo.mp3  
+tags: [audio, promo, Frente al Micrófono]  
+comments: true_ 
+---
+Aquí puedes añadir las notas del programa 
+
+<audio controls>
+  <source src="https://ia800605.us.archive.org/26/items/PromoFrentealmicrófono/FAM-00-promo.mp3" type="audio/mpeg">
+</audio>
+Aquí
+
+![#Promo]({{ site.baseurl }}/images/promo.png)
+
+
+Recuerda que puedes **contactar** conmigo de las siguientes formas:
+
++ Twitter: <https://twitter.com/frentealmicrofono>
++ Correo: <frentealmicrofono@gmail.com>
++ Web: <https://frentealmicrofono.github.io/>
++ Telegram: <https://t.me/frentealmicrofono>
++ Youtube: <https://www.youtube.com/frentealmicrofono>
++ Feed Podcast: <https://frentealmicrofono.github.io/feed>
