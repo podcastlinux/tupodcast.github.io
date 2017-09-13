@@ -7,6 +7,7 @@ Gracias a Ugeek y otros muchos, he conocido esta es una manera asequible de publ
 Sacado de:  
 <https://github.com/barryclark/jekyll-now>  
 <https://github.com/ugeek/ugeek.github.io/>  
+<https://devexperto.com/blog-gratis-github-jekyll/>
 
 1. Crea tu cuenta github con el nombre de tu podcast
 2. Realizar un fork de este repositorio: <https://github.com/podcastlinux/tupodcast.github.io>
