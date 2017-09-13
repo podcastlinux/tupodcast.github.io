@@ -4,9 +4,9 @@ Como siempre, muchas ideas en la cabeza y con ganas de aportar.
 Vamos a intentar hacer un servicio para crear un podcast mediante archive.org y Github Pages + Jekyll.  
 Gracias a Ugeek y otros muchos, he conocido esta es una manera asequible de publicar tu podcast.
 
-Sacado de:
-<https://github.com/barryclark/jekyll-now>
-<https://github.com/ugeek/ugeek.github.io/>
+Sacado de:  
+<https://github.com/barryclark/jekyll-now>  
+<https://github.com/ugeek/ugeek.github.io/>  
 
 1. Crear tu cuenta github con el nombre de tu podcast
 2. Realizar un fork de este repositorio: <https://github.com/podcastlinux/tupodcast.github.io>
