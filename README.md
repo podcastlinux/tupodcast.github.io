@@ -9,15 +9,14 @@ Sacado de:
 <https://github.com/ugeek/ugeek.github.io/>  
 <https://devexperto.com/blog-gratis-github-jekyll/>
 
-1. Crea tu cuenta github con el nombre de tu podcast <https://github.com/>
-2. Realizar un fork de este repositorio: <https://github.com/podcastlinux/tupodcast.github.io>
-3. Modifica y configura tu Github Pages con tu info y logo.  
-Añade un logo  
-Modifica _config.yml con nombre, descripción, logo, rdes sociales y especialmente todo lo referente al feed del podcast en la parte # Podcast Feed Settings  
-4. Crea una cuenta en <archive.org>.
-5. Aloja tus archivos de audio y extrae la url de ellos.
-6. Aprende ha realizar los posts para que salgan como episodios de tu podcast.
-7. Revisa que el feed esté bien.
+1. **Crea tu cuenta github** con el nombre de tu podcast <https://github.com/>
+2. **Realiza un fork** de este repositorio: <https://github.com/podcastlinux/tupodcast.github.io>
+3. **Modifica y configura tu Github Pages** con tu info y logo.  
+Modifica _config.yml con nombre, descripción, logo, redes sociales y especialmente todo lo referente al feed del podcast en la parte # Podcast Feed Settings  
+4. **Crea una cuenta en <https://archive.org>.**
+5. **Aloja tus archivos de audio y extrae la url** de ellos.
+6. Aprende a **realizar los posts** para que salgan como episodios de tu podcast.
+7. **Revisa** que **el feed** esté bien.
 
 En construcción.
 
