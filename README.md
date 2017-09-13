@@ -4,7 +4,7 @@ Como siempre, muchas ideas en la cabeza y con ganas de aportar.
 Vamos a intentar hacer un servicio para crear un podcast mediante archive.org y Github Pages + Jekyll.  
 Gracias a Ugeek y otros muchos, he conocido esta es una manera asequible de publicar tu podcast.
 
-Sacado de:  
+Toda la info se ha extraído de:  
 <https://github.com/barryclark/jekyll-now>  
 <https://github.com/ugeek/ugeek.github.io/>  
 <https://devexperto.com/blog-gratis-github-jekyll/>
@@ -46,6 +46,13 @@ Para conocer más Markdown, mira este [post](https://markdown.es/sintaxis-markdo
 Te dejo un [ejemplo](https://github.com/uGeek/ugeek.github.io/edit/master/_posts/podcast/2017-09-04-076.-Un-servidor-en-mi-casa.md) y cómo se ve en el [blog](https://ugeek.github.io/076.-Un-servidor-en-mi-casa/)
 
 7. **Revisa** que **el feed** esté bien.
+Una vez ya tengas tu primer episodio, verifica que todo haya ido bien.  
+Puedes utilizar un podcatcher para ver si funciona. En Android te recomiendo [Antennapod](https://play.google.com/store/apps/details?id=de.danoeh.antennapod&hl=es)  
+También pudes probar esta página:<http://castfeedvalidator.com/>  
 
-En construcción.
 
+Cualquier duda me puedes encontrar en:  
+<li>Twitter: <a href="https://twitter.com/podcastlinux">@podcastlinux</a></li>
+<li>Telegram: <a href="https://t.me/juanfebles">@juanfebles</a></li>
+<li>Correo: <a href="mailto:podcastlinux@avpodcast.net">podcastlinux@avpodcast.net</a></li>
+<li>Web: <a href="http://avpodcast.net/podcast-linux/">avpodcast.net/podcastlinux</a></li>
