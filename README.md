@@ -18,7 +18,7 @@ Como ejemplo he tomado el nombre del podcast: Frente al Micrófono
 Ve a esta página y haz clic en Fork
 
 3. **Modifica y configura tu Github Pages** con tu info y logo para que funcione como un blog.  
-**Cambia el nombre del repositorio** en Settings a tuusuario.github.io Ej:frentealmicro.github.io  
+**Cambia el nombre del repositorio** en Settings a tuusuario.github.io Ej:frentealmicrofono.github.io  
 **Edita _config.yml** (clic en el icono del lápiz) con tu nombre del podcast, descripción, avatar (logo), redes sociales y no te olvides todo lo referente al feed del podcast en la parte # Podcast Feed Settings 
 No te olvides de grabar los cambios en el botón Commit changes.  
 Sube tu logo a la carpeta images. Por ejemplo: logo.png. Te aconsejo 3000x3000 px. Lo puedes crear con [Inkscape](https://inkscape.org/es/)  
