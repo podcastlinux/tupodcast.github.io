@@ -9,9 +9,10 @@ Toda la info la he extraído de:
 <https://github.com/ugeek/ugeek.github.io/>  
 <https://devexperto.com/blog-gratis-github-jekyll/>
 
-Vamos paso a paso: Puede parecer un poco lío al principio, pero en 30 minutos puedes tener tu blog activo.
+Vamos paso a paso: Puede parecer un poco lío al principio, pero en 30 minutos puedes tener tu blog activo.  
+Como ejemplo he tomado el nombre del podcast: Frente al Micrófono
 
-1. **Crea tu cuenta github** con el nombre de tu podcast <https://github.com/> Ej:frentealmicro  
+1. **Crea tu cuenta github** con el nombre de tu podcast <https://github.com/> Ej:frentealmicrofono  
 
 2. **Realiza un fork** de este repositorio: <https://github.com/podcastlinux/tupodcast.github.io>  
 Ve a esta página y haz clic en Fork
@@ -21,8 +22,8 @@ Ve a esta página y haz clic en Fork
 **Edita _config.yml** (clic en el icono del lápiz) con tu nombre del podcast, descripción, avatar (logo), redes sociales y no te olvides todo lo referente al feed del podcast en la parte # Podcast Feed Settings 
 No te olvides de grabar los cambios en el botón Commit changes.  
 Sube tu logo a la carpeta images. Por ejemplo: logo.png. Te aconsejo 3000x3000 px. Lo puedes crear con [Inkscape](https://inkscape.org/es/)  
-Una vez ya hayas hecho esto, deberías poder acceder a tu blog desde cualquier navegador: tuusuario.github.io  
-A veces no es automático y tarda un poco. Si se demora mucho, vuelve a editar
+Una vez ya hayas hecho esto, deberías poder acceder a tu blog desde cualquier navegador: tuusuario.github.io Ej:frentealmicrofono.github.io  
+A veces no es automático y tarda un poco. Si se demora mucho, vuelve a editar _config.yml, cambia algo, guarda y vuelve a probar.
 
 Es muy interesante que actives [Disqus](https://disqus.com/) para tener comentarios de los oyentes en el blog.   
 Para no perderte,revisa este archivo de [ejemplo](https://github.com/podcastlinux/podcastlinux.github.io/blob/master/_config.yml)  
