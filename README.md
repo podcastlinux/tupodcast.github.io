@@ -16,6 +16,7 @@ Toda la info se ha extraído de:
 3. **Modifica y configura tu Github Pages** con tu info y logo.  
 **Cambia el nombre del repositorio** a tuusuario.github.io Ej:frentealmicro.github.io  
 **Modifica _config.yml** con tu nombre del podcast, descripción, avatar (logo), redes sociales y no te olvides todo lo referente al feed del podcast en la parte # Podcast Feed Settings  
+Es muy interesante que actives [Disqus](https://disqus.com/) para tener comentarios de los oyentes en el blog.   
 Revisa este archivo de [ejemplo](https://github.com/podcastlinux/podcastlinux.github.io/blob/master/_config.yml)  
 También puedes **editar about.md** para poner todos tus métodos de contacto y algo de info sobre tu podcast.
 
