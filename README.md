@@ -56,5 +56,5 @@ También pudes probar esta página:<http://castfeedvalidator.com/>
 Cualquier duda me puedes encontrar en:  
 <li>Twitter: <a href="https://twitter.com/podcastlinux">@podcastlinux</a></li>
 <li>Telegram: <a href="https://t.me/juanfebles">@juanfebles</a></li>
-<li>Correo: <a href="mailto:podcastlinux@avpodcast.net">podcastlinux@avpodcast.net</a></li>
-<li>Web: <a href="http://avpodcast.net/podcast-linux/">avpodcast.net/podcastlinux</a></li>
+<li>Correo: <a href="mailto:podcastlinux@gmail.com">podcastlinux@gmail.com</a></li>
+<li>Blog: <a href="https://podcastlinux.github.io">podcastlinux.github.io</a></li>
