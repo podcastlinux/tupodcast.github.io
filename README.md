@@ -1,8 +1,8 @@
 Muy buenas!!!  
 Como siempre, muchas ideas en la cabeza y con ganas de aportar.
 
-Vamos a intentar hacer un servicio para **crear un podcast mediante archive.org y Github Pages + Jekyll.**    
-Gracias a Ugeek y otros muchos, he conocido esta es una manera asequible de publicar tu podcast.
+Vamos a hacer un servicio para **crear un podcast mediante archive.org y Github Pages + Jekyll.**    
+Gracias a Ugeek y otros muchos, he conocido esta manera asequible de publicar tu podcast.
 
 Toda la info se ha extraído de:  
 <https://github.com/barryclark/jekyll-now>  
