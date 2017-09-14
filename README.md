@@ -14,10 +14,10 @@ Toda la info se ha extraído de:
 2. **Realiza un fork** de este repositorio: <https://github.com/podcastlinux/tupodcast.github.io>  
 
 3. **Modifica y configura tu Github Pages** con tu info y logo.  
-Cambia el nombre de tu repositorio a tuusuario.github.io Ej:frentealmicro.github.io  
-Modifica _config.yml con tu nombre del podcast, descripción, logo, redes sociales y no te olvides todo lo referente al feed del podcast en la parte # Podcast Feed Settings  
+**Cambia el nombre del repositorio** a tuusuario.github.io Ej:frentealmicro.github.io  
+**Modifica _config.yml** con tu nombre del podcast, descripción, logo, redes sociales y no te olvides todo lo referente al feed del podcast en la parte # Podcast Feed Settings  
 Revisa este archivo de [ejemplo](https://github.com/podcastlinux/podcastlinux.github.io/blob/master/_config.yml)  
-También puedes editar el about.md para poner todos tus métodos de contacto y algo de info sobre tu podcast.
+También puedes **editar about.md** para poner todos tus métodos de contacto y algo de info sobre tu podcast.
 
 4. **Crea una cuenta en <https://archive.org>.**
 
