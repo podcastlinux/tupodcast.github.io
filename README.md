@@ -1,7 +1,7 @@
 Muy buenas!!!  
 Como siempre, muchas ideas en la cabeza y con ganas de aportar devolviendo lo aprendido.
 
-Vamos a hacer un alojamiento para **publicar un podcast mediante archive.org y Github Pages + Jekyll.**    
+Vamos a hacer un alojamiento para **publicar un podcast mediante Github Pages + Jekyll y archive.org.**    
 Gracias a Ugeek y otros muchos, he conocido esta manera asequible de crear un blog a tu podcast y que te ofrezca el feed.
 
 Toda la info la he extraído de:  
