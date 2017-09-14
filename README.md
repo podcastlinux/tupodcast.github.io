@@ -18,9 +18,11 @@ Ve a esta página y haz clic en Fork
 
 3. **Modifica y configura tu Github Pages** con tu info y logo para que funcione como un blog.  
 **Cambia el nombre del repositorio** en Settings a tuusuario.github.io Ej:frentealmicro.github.io  
-**Modifica _config.yml** con tu nombre del podcast, descripción, avatar (logo), redes sociales y no te olvides todo lo referente al feed del podcast en la parte # Podcast Feed Settings  
+**Edita _config.yml** (clic en el icono del lápiz) con tu nombre del podcast, descripción, avatar (logo), redes sociales y no te olvides todo lo referente al feed del podcast en la parte # Podcast Feed Settings 
+No te olvides de grabar los cambios en el botón Commit changes.  
 Sube tu logo a la carpeta images. Por ejemplo: logo.png. Te aconsejo 3000x3000 px. Lo puedes crear con [Inkscape](https://inkscape.org/es/)  
-Una vez ya hayas hecho esto, debería poder acceder a tu blog desde cualquier navegador: tuusuario.github.io
+Una vez ya hayas hecho esto, deberías poder acceder a tu blog desde cualquier navegador: tuusuario.github.io  
+A veces no es automático y tarda un poco. Si se demora mucho, vuelve a editar
 
 Es muy interesante que actives [Disqus](https://disqus.com/) para tener comentarios de los oyentes en el blog.   
 Para no perderte,revisa este archivo de [ejemplo](https://github.com/podcastlinux/podcastlinux.github.io/blob/master/_config.yml)  
