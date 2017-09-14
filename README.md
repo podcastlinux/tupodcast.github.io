@@ -30,7 +30,7 @@ Es muy interesante que actives [Disqus](https://disqus.com/) para tener comentar
 Para no perderte,revisa este archivo de [ejemplo](https://github.com/podcastlinux/podcastlinux.github.io/blob/master/_config.yml)  
 También puedes **editar about.md** para poner todos tus métodos de contacto y algo de info sobre tu podcast.
 
-4. **Crea una cuenta en <https://archive.org>.**
+4. **Crea una cuenta en [archive.org](https://archive.org/account/login.createaccount.php)**
 
 5. **Aloja tus archivos de audio y extrae la url** de ellos.  
 Añade con upload el archivo de audio (arriba con el símbolo fecla hacia arriba) y rellena los campos.  
