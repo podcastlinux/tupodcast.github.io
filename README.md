@@ -18,13 +18,14 @@ Como ejemplo he tomado el nombre del podcast: Frente al Micrófono
 Ve a esta página y haz clic en Fork
 
 3. **Modifica y configura tu Github Pages** con tu info y logo para que funcione como un blog.  
-**Cambia el nombre del repositorio** en Settings a tuusuario.github.io Ej:frentealmicrofono.github.io  
-**Edita _config.yml** (clic en el icono del lápiz) con tu nombre del podcast, descripción, avatar (logo), redes sociales y no te olvides todo lo referente al feed del podcast en la parte # Podcast Feed Settings 
-No te olvides de grabar los cambios en el botón Commit changes.  
+**Cambia el nombre del repositorio** en "Settings" a tuusuario.github.io Ej:frentealmicrofono.github.io  
+**Edita _config.yml** (clic en el icono del lápiz) con tu nombre del podcast, descripción, avatar (logo), redes sociales y no te olvides todo lo referente al feed del podcast en la parte # Podcast Feed Settings  
+Tampoco salgas de la edición sin grabar los cambios en el botón "Commit changes".  
 Sube tu logo a la carpeta images. Por ejemplo: logo.png. Te aconsejo 3000x3000 px. Lo puedes crear con [Inkscape](https://inkscape.org/es/)  
 Una vez ya hayas hecho esto, deberías poder acceder a tu blog desde cualquier navegador: tuusuario.github.io Ej:frentealmicrofono.github.io  
 A veces no es automático y tarda un poco. Si se demora mucho, vuelve a editar _config.yml, cambia algo, guarda y vuelve a probar.
 
+Volvemos a github para seguir configurando el blog.  
 Es muy interesante que actives [Disqus](https://disqus.com/) para tener comentarios de los oyentes en el blog.   
 Para no perderte,revisa este archivo de [ejemplo](https://github.com/podcastlinux/podcastlinux.github.io/blob/master/_config.yml)  
 También puedes **editar about.md** para poner todos tus métodos de contacto y algo de info sobre tu podcast.
@@ -38,10 +39,11 @@ Copia el link de esa url
 
 6. Aprende a **realizar los posts** para que salgan como episodios de tu podcast.
 En tu repositorio accede a la carpeta _post.  
-Dentro de ella tendrás un archivo de ejemplo en formato .txt  
-Copia y modifica su nombre y añade dentro las notas del programa.  
+Dentro de ella tendrás un archivo de ejemplo en formato .md  
+Modifica su nombre y añade dentro las notas del programa.  
 El archivo debe ser año-mes-día-nombre-del-episodio.md Ejemplo: 2017-09-15-promo.md    
-Al principio tienes una zona para definir el post (datos de ejemplo). Es muy importante poner en __categories:podcast__ para que cargue esta entrada como episodio del feed.    
+Al principio tienes una zona para definir el post (datos de ejemplo). Es muy importante poner en __categories:podcast__ para que cargue esta entrada como episodio del feed. Si lo dejas en blanco, crearás una entrada en el blog, pero ésta no será cargada en el feed. Puede ser útil para algunos momentos.  
+Echemos un vistazo a la configuración del post.  
 ~~~
 _layout: post  
 title: "Promo Frente al Micrófono"  
@@ -51,8 +53,9 @@ image: images/logo.png
 podcast_link: https://ia800605.us.archive.org/26/items/PromoFrentealmicrófono/FAM-00-promo.mp3  
 tags: [audio, promo, Frente al Micrófono]  
 comments: true_  
-~~~
-Puedes añadir imágenes, links, tablas, vídeos... cualquier cosa.  
+~~~  
+Modifica en la cabecera los datos que desees (image: carátula del podcast, podcast_link: link del audio que alojamos en archive.org)  
+Puedes añadir debajo las notas del programa con imágenes, links, tablas, vídeos... cualquier cosa.  
 Para conocer más Markdown, el lenguaje que utiliza para la edición de texto, mira este [post](https://markdown.es/sintaxis-markdown/)  
 Te dejo un [ejemplo](https://github.com/uGeek/ugeek.github.io/edit/master/_posts/podcast/2017-09-04-076.-Un-servidor-en-mi-casa.md) y cómo se ve en el [blog](https://ugeek.github.io/076.-Un-servidor-en-mi-casa/)
 
