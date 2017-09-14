@@ -1,15 +1,17 @@
 ---
 layout: page
-title: About
+title: Acerca de
 permalink: /about/
 ---
 
-Some information about you!
+Añade toda la info que quieras compartir
 
-### More Information
+Recuerda que puedes **contactar** con nosotros de las siguientes formas:  
+(ejemplo)
 
-A place to include any other types of information that you'd like to include about yourself.
-
-### Contact me
-
-[email@domain.com](mailto:email@domain.com)
++ Twitter: <https://twitter.com/frentealmicrofono>
++ Correo: <frentealmicrofono@gmail.com>
++ Web: <https://frentealmicrofono.github.io/>
++ Telegram: <https://t.me/frentealmicrofono>
++ Youtube: <https://www.youtube.com/frentealmicrofono>
++ Feed Podcast: <https://frentealmicrofono.github.io/feed>
