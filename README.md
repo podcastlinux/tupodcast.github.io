@@ -1,29 +1,32 @@
 Muy buenas!!!  
 Como siempre, muchas ideas en la cabeza y con ganas de aportar.
 
-Vamos a hacer un servicio para **crear un podcast mediante archive.org y Github Pages + Jekyll.**    
-Gracias a Ugeek y otros muchos, he conocido esta manera asequible de publicar tu podcast.
+Vamos a hacer un alojamiento para **publicar un podcast mediante archive.org y Github Pages + Jekyll.**    
+Gracias a Ugeek y otros muchos, he conocido esta manera asequible de crear un blog a tu podcast y que te ofrezca el feed.
 
-Toda la info se ha extraído de:  
+Toda la info la he extraído de:  
 <https://github.com/barryclark/jekyll-now>  
 <https://github.com/ugeek/ugeek.github.io/>  
 <https://devexperto.com/blog-gratis-github-jekyll/>
+
+Vamos paso a paso: Puede parecer un poco lío al principio, pero en 30 minutos puedes tener tu blog activo.
 
 1. **Crea tu cuenta github** con el nombre de tu podcast <https://github.com/> Ej:frentealmicro  
 
 2. **Realiza un fork** de este repositorio: <https://github.com/podcastlinux/tupodcast.github.io>  
 
-3. **Modifica y configura tu Github Pages** con tu info y logo.  
+3. **Modifica y configura tu Github Pages** con tu info y logo para que funcione como un blog.  
 **Cambia el nombre del repositorio** a tuusuario.github.io Ej:frentealmicro.github.io  
 **Modifica _config.yml** con tu nombre del podcast, descripción, avatar (logo), redes sociales y no te olvides todo lo referente al feed del podcast en la parte # Podcast Feed Settings  
+Sube tu logo a la carpeta images. Te aconsejo 3000x3000 px. Lo puedes crear con [Inkscape](https://inkscape.org/es/)  
 Es muy interesante que actives [Disqus](https://disqus.com/) para tener comentarios de los oyentes en el blog.   
-Revisa este archivo de [ejemplo](https://github.com/podcastlinux/podcastlinux.github.io/blob/master/_config.yml)  
+Para no perderte,revisa este archivo de [ejemplo](https://github.com/podcastlinux/podcastlinux.github.io/blob/master/_config.yml)  
 También puedes **editar about.md** para poner todos tus métodos de contacto y algo de info sobre tu podcast.
 
 4. **Crea una cuenta en <https://archive.org>.**
 
 5. **Aloja tus archivos de audio y extrae la url** de ellos.  
-Añade con upload el archivo (arriba con el símbolo fecla hacia arriba) y rellena los campos.  
+Añade con upload el archivo de audio (arriba con el símbolo fecla hacia arriba) y rellena los campos.  
 Una vez esté, entra en ese audio [(Ejemplo)](https://archive.org/details/PL28Aniversario) y pincha en [VBR mp3](https://ia800605.us.archive.org/26/items/PL28Aniversario/PL-28-Aniversario.mp3) o si lo prefieres en formato [Ogg Vorbis](https://ia800605.us.archive.org/26/items/PL28Aniversario/PL-28-Aniversario.ogg)  
 Copia el link de esa url
 
@@ -43,8 +46,8 @@ podcast_link: https://ia800605.us.archive.org/26/items/PromoFrentealmicrófono/F
 tags: [audio, promo, Frente al Micrófono]  
 comments: true_  
 ~~~
-Puedes añadir imágenes, links, tablas... cualquier cosa.  
-Para conocer más Markdown, mira este [post](https://markdown.es/sintaxis-markdown/)  
+Puedes añadir imágenes, links, tablas, vídeos... cualquier cosa.  
+Para conocer más Markdown, el lenguaje que utiliza para la edición de texto, mira este [post](https://markdown.es/sintaxis-markdown/)  
 Te dejo un [ejemplo](https://github.com/uGeek/ugeek.github.io/edit/master/_posts/podcast/2017-09-04-076.-Un-servidor-en-mi-casa.md) y cómo se ve en el [blog](https://ugeek.github.io/076.-Un-servidor-en-mi-casa/)
 
 7. **Revisa** que **el feed** esté bien.
