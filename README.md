@@ -14,9 +14,10 @@ Vamos paso a paso: Puede parecer un poco lío al principio, pero en 30 minutos p
 1. **Crea tu cuenta github** con el nombre de tu podcast <https://github.com/> Ej:frentealmicro  
 
 2. **Realiza un fork** de este repositorio: <https://github.com/podcastlinux/tupodcast.github.io>  
+Ve a esta página y haz clic en Fork
 
 3. **Modifica y configura tu Github Pages** con tu info y logo para que funcione como un blog.  
-**Cambia el nombre del repositorio** a tuusuario.github.io Ej:frentealmicro.github.io  
+**Cambia el nombre del repositorio** en Settings a tuusuario.github.io Ej:frentealmicro.github.io  
 **Modifica _config.yml** con tu nombre del podcast, descripción, avatar (logo), redes sociales y no te olvides todo lo referente al feed del podcast en la parte # Podcast Feed Settings  
 Sube tu logo a la carpeta images. Por ejemplo: logo.png. Te aconsejo 3000x3000 px. Lo puedes crear con [Inkscape](https://inkscape.org/es/)  
 Una vez ya hayas hecho esto, debería poder acceder a tu blog desde cualquier navegador: tuusuario.github.io
