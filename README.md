@@ -63,7 +63,7 @@ Puedes utilizar un podcatcher para ver si carga correctamente. En Android te rec
 También pudes probar esta página:<http://castfeedvalidator.com/>  
 
 
-Cualquier duda me puedes encontrar en:  
+Cualquier duda o aportación, me puedes encontrar en:  
 <li>Twitter: <a href="https://twitter.com/podcastlinux">@podcastlinux</a></li>
 <li>Telegram: <a href="https://t.me/juanfebles">@juanfebles</a></li>
 <li>Correo: <a href="mailto:podcastlinux@gmail.com">podcastlinux@gmail.com</a></li>
